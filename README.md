@@ -12,6 +12,6 @@ conhecimento sobre machine learning, para ficar mais preciso e melhorado.
 1- Abra o aplicativo ExpertSinta;
 2- Clique em "Arquivo" e "Abrir Base"
 3- Selecione o arquivo "Sistema Especialista Métodologias Ágeis.bcm" e clique em "Abrir";
-4- Abaixo da aba "Exibir", clique no ícone da seta apontando para a direita.
+4- Abaixo da aba "Exibir", clique no ícone da seta apontando para a direita. 5- Faça sua consulta!
 ![image](https://github.com/user-attachments/assets/e476ff16-d74c-4116-a8e7-643dced3b550)
-5- Faça a sua consulta!
+
